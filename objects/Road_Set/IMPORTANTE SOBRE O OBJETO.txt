@@ -1,0 +1,3 @@
+Abrindo pelo blender, eu deletei o conjunto e deixei só a estrada reta. Precisando de outra(curva, encruzilhada em T ou em X), é só abrir o .blend baixando do link e deletar todas menos a que precisa.
+
+Link: https://www.turbosquid.com/3d-models/roads-3d-model-1195815
