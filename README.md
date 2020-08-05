@@ -4,8 +4,6 @@ The project simulates a road, a person(the cyborg), a light pole(the stone) and 
 There can only be 10 light points, including the light pole one, the line nº164 shows how many light poits there is and initially at a far away point.
 
 The project uses the OpenGL.
-
-Extract the CG_UFPel file and use CMake. Relace main.cpp in CG_UFPel\src\CG_UFPel folder. Replace cg_ufpel.vs and cg_ufpel.fs in CG_UFPel\resources. Put the planet, Road_set and rock folders in the objects folder.
  
 
 Controls:
