@@ -5,7 +5,7 @@ There can only be 10 light points, including the light pole one, the line nº164
 The project uses the OpenGL.
 
 Controls:
-WASD - Move camera position
-Mouse - Move camera view angle
-Z - Spawns car on the left
-X - Spawns car on the right
+WASD - Move camera position;
+Mouse - Move camera view angle;
+Z - Spawns car on the left;
+X - Spawns car on the right.
